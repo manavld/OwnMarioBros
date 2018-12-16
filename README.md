@@ -6,7 +6,7 @@ Own Mario Bros is a 2D platform game based with a nostalgic feature as its graph
 
 ## Members
 
-<img src="" width="600">
+<img src="teamphoto.jpg" width="600">
 
 * José Rodriguez: 
 
