@@ -85,7 +85,7 @@ Download the release and execute the .exe, no need of any installation process.
 
 ## Gameplay Video
 
-<video src="OwnMarioBrosGameplay.mp4" width="500" height="300" controls preload></video>
+<video src="OwnMarioBrosGameplayG.mp4" width="500" height="300" controls preload></video>
 
 ## License
 
