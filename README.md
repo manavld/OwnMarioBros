@@ -81,7 +81,7 @@ Reach to the end of the map without dying by an enemy or falling through any pit
 
 Download the release and execute the .exe, no need of any installation process.
 
-[Release]()
+[Release](https://github.com/joserm45/Own-Mario-Bros/releases/tag/1.0V)
 
 ## Gameplay Video
 
