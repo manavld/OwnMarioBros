@@ -8,14 +8,18 @@ Own Mario Bros is a 2D platform game based with a nostalgic feature as its graph
 
 <img src="" width="600">
 
-* José Rodriguez: https://github.com/joserm45
+* José Rodriguez: 
+
+[Github Link](https://github.com/joserm45)
 
 <b>Implementation</b>
 
 
 Map draw implementation, parallax implementation, camera movement, changing levels, logic and collider layer implementation, colliders, double jump, save and load, frame rate and dt, entity system implementation, enemy save and load, UI structure, labels, buttons, save and load UI, update in game UI element (lives, score, time, coins), volume adjustment.
 
-* Manav Lakhwani: https://github.com/manavld
+* Manav Lakhwani: 
+
+[Github Link](https://github.com/manavld)
 
 <b>Implementation</b>
 
@@ -71,13 +75,13 @@ Reach to the end of the map without dying by an enemy or falling through any pit
 
 ## Github Project Repository
 
-https://github.com/joserm45/Own-Mario-Bros
+[Github Project](https://github.com/joserm45/Own-Mario-Bros)
 
 ## Release Link
 
 Download the release and execute the .exe, no need of any installation process.
 
-
+[Release]()
 
 ## Gameplay Video
 
@@ -96,7 +100,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-https://opensource.org/licenses/MIT
+[MIT](https://opensource.org/licenses/MIT)
 
 All art and audio used belongs to Nintendo and their Super Mario Bros game.
 
