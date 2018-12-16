@@ -12,7 +12,7 @@ Own Mario Bros is a 2D platform game based with a nostalgic feature as its graph
 
 [Github Link](https://github.com/joserm45)
 
-<b>Implementation</b>
+**Implementation:**
 
 
 Map draw implementation, parallax implementation, camera movement, changing levels, logic and collider layer implementation, colliders, double jump, save and load, frame rate and dt, entity system implementation, enemy save and load, UI structure, labels, buttons, save and load UI, update in game UI element (lives, score, time, coins), volume adjustment.
@@ -21,7 +21,7 @@ Map draw implementation, parallax implementation, camera movement, changing leve
 
 [Github Link](https://github.com/manavld)
 
-<b>Implementation</b>
+**Implementation:**
 
 Module player, mario sprites and animations, tiled, audio implementation, player death and respawn, god mode, win, goomba and movement, enemy sprited and animations, brofiler implementation, entity system UML, fade to black, coins, UI atlas and passing from scene to scene control, main menu, setting and credit menu, paused menu, UI UML, website, UI audio. 
 
