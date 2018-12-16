@@ -56,10 +56,14 @@ Reach to the end of the map without dying by an enemy or falling through any pit
 
 ### In Game UI
 
-* Score
-* Lives
-* Coins
-* Time
+* Score : 10 points for coin, 100 points for enemy kill.
+
+* Lives : 3 lives, 1 life less when died, when no lives left back to main menu.
+
+* Coins : 1 more life if 10 coins collected.
+
+* Time : Increases in seconds.
+
 
 ### Debug Keys
 
