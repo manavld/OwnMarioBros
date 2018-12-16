@@ -8,14 +8,14 @@ Own Mario Bros is a 2D platform game based with a nostalgic feature as its graph
 
 <img src="teamphoto.jpg" width="600">
 
-* José Rodriguez: 
+* José Rodríguez: 
 
 [Github Link](https://github.com/joserm45)
 
 **Implementation:**
 
 
-Map draw implementation, parallax implementation, camera movement, changing levels, logic and collider layer implementation, colliders, double jump, save and load, frame rate and dt, entity system implementation, enemy save and load, UI structure, labels, buttons, save and load UI, update in game UI element (lives, score, time, coins), volume adjustment.
+Map draw implementation, parallax implementation, camera movement, changing levels, logic and collider layer implementation, colliders, double jump, save and load, frame rate and dt, entity system implementation, enemy save and load, UI structure, labels, buttons, save and load UI, update in game UI element (lives, score, time, coins).
 
 * Manav Lakhwani: 
 
@@ -23,7 +23,7 @@ Map draw implementation, parallax implementation, camera movement, changing leve
 
 **Implementation:**
 
-Module player, mario sprites and animations, tiled, audio implementation, player death and respawn, god mode, win, goomba and movement, enemy sprited and animations, brofiler implementation, entity system UML, fade to black, coins, UI atlas and passing from scene to scene control, main menu, setting and credit menu, paused menu, UI UML, website, UI audio. 
+Module player, mario sprites and animations, tiled, audio implementation, player death and respawn, god mode, win, goomba and movement, enemy sprited and animations, brofiler implementation, entity system UML, fade to black, coins, UI atlas and passing from scene to scene control, main menu, setting and credit menu, paused menu, UI UML, website, UI audio, volume adjustment. 
 
 ## How To Play
 
@@ -85,10 +85,7 @@ Download the release and execute the .exe, no need of any installation process.
 
 ## Gameplay Video
 
-<video src="" width="320" height="200" controls preload></video>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<video src="OwnMarioBrosGameplay.mp4" width="500" height="300" controls preload></video>
 
 ## License
 
